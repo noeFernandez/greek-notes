@@ -1,72 +1,83 @@
-# Verbos activos en pasado
-#greek
+# Active verbs in past tense
 
-Εννργητικά ρήματα  -> verbos activos
-Αόριστο -> pasado
+## First things first: Word's root
 
-* Verbos en griego tienen 2 raíces
-	* La raíz del verbo es aquello que no cambia
+To make the past tense in Greek we first need to know what the root of word is: it's the invariant part of  
+a work Let's see some examples  
 
-> εγώ			διαβάζ*ω*  
-> εσύ 			διαβάζ*εις*  
-> αυτος/η/ο 	διαβάζ*ει*  
-> εμεις 		διαβάζ*ουμε*  
-> εσεις 		διαβάζ*ετε*  
-> αυτοί/ές/ά	διαβάζ*ουν*  
+| Subject  		| Verb (**root**)	|
+| ------------- | ------------------|
+| εγώ  			| **διαβάζ**ω  		|
+| εσύ  			| **διαβάζ**εις  	|
+| αυτός/ή/ό  	| **διαβάζ**ει 		|
+| εμεις  		| **διαβάζ**ουμε	|
+| εσεις  		| **διαβάζ**ετε  	|
+| αυτοί/ές/ά  	| **διαβάζ**ουν  	|
 
-La raíz en este caso es /dιαβαζ/
+Then we have to make distinction between two types of roots:  
+- Continuous root: Represents an action that lasts in the time
+- Punctual root: Represents an action that happens only once, or in given ocassions
 
-La raíz pueden ser 2  
-		* Raíz continua: Una acción que se repite en el tiempo  
-		* Raíz puntual: cuando el verbo exprese una acción puntuál  
-			* El pasado simple se hace con esta raíz  
 
-Los verbos activos pueden terminar en  
-	* ω  
-		> verbo		raíz continua		raíz puntual (mas Terminación)  
-		> δiαβαζω 	-> διαβαζ			->	διαβας  
-		> γραφω		-> γράφ				->	γράψ  
-		> ανοιγω		-> ανοίγ			->	ανοίξ  
+## How do we put verbs into past tense
 
-	* Si la raíz continua termina en:
-		* Vocal, ν, ζ => σ
-		* γ, γγ, κ , χ, χν => ξ               (sonidos hechos con la garganta)
-		* π, β, φ,. Πτ, φτ, αυ, ευ => ψ       (sonidos hechos con los labios)
+We can use the following pattern to bring verbs into past tense
 
-	* En el tiempo pasado el acento siempre va en la antepenúltima
-> εγώ 			διαβάς*α*			-> διάβας*α*  
-> εσύ 			διαβάς*ες*		-> διάβας*ες*  
-> αυτος/η/ο 	διαβάς*ε*			-> διάβας*ε*  
-> εμεις 		διαβάς*αμε*		-> διαβάς*αμε*  
-> εσεις 		διαβάς*ατε*		-> διαβάς*ατε*  
-> αυτοί/ές/ά	διαβάς*αν*		-> διάβας*αν*  
+```
+past tense = verb's root + (root's modification) + (past endings) + change of accent if applies 
+```
 
-¿Algo mas?
-* Sí, si el verbo no tuviere antepenúltima, se le añade un ε  
-> εγώ 			γράψ*α*		-> έγραψ*α*	  
-> εσύ 			γράψ*ες*		-> έγραψ*ες*  
-> αυτος/η/ο 	γράψ*ε*		-> έγραψ*ε*  
-> εμεις 		γράψ*αμε*		-> γράψ*αμε*  
-> εσεις 		γράψ*ατε*		-> γράψ*ατε*  
-> αυτοί/ές/ά	γράψ*αν*		-> έγραψ*αν*  
+### Root's modification
 
-	
-	
+We have three different types of verb depending on which letter do they end, each one will modify the root of the word in a different way.
 
-* -ώ || -αω
-Se le añade ala raíz continua -ης, -ες, -ας  
-No hay regla :(  
+- -ω  
+	Verbs finishing in ω will apply the following rule to substitute the ω in the root of the verb in case the root verbs finished like the mentioned rule
 
-> verbo		raíz continua		raíz puntual mas [Terminación ) (mas regla del acento)
-> αγαπαω 		-> αγαπ				->	αγαπής
-> γραφω		-> γράφ				->	γράψ
-> ανοιγω		-> ανοίγ			->	ανοίξ
-	
+| Rule  					| substitution		| Hint							|  
+| --------------------------| ------------------|-------------------------------|
+| Vowel, ν, ζ 				| **σ**				|								|
+| γ, γγ, κ , χ, χν			| **ξ**				| sounds made with the throat	|
+| π, β, φ,. Πτ, φτ, αυ, ευ 	| **ψ**				| sounds made with the lips		|
 
-### Terminación de pasado
-> εγώ 			διαβάς*α*  
-> εσύ 			διαβάς*ες*  
-> αυτος/η/ο 	διαβάς*ε*  
-> εμεις 		διαβάς*αμε*  
-> εσεις 		διαβάς*ατε*  
-> αυτοί/ές/ά	διαβάς*αν*  
+So for example διαβάζω which it's active root is *διαβαζ* will be transformed into **διαβασ**
+
+
+- -ώ and -αω
+	Root verbs finishing in -ώ and -αω can modify the root of the verb in three different ways which are -ης, -αξ, -ας unfurtonately there is no rule for this case so you will have to learn it by heart :)
+
+	There you go with some examples  
+	* Αγαπάω 	-> αγάπησ
+	* Κοιτάζω 	-> κοίταξα
+
+### Word's ending in the past
+
+| Subject  		| Verb 		| Ending 	| Result 		|
+| ------------- | ----------|-----------|---------------|
+| εγώ  			| διαβάς	|	α		| **διαβάσα**	|
+| εσύ  			| διαβάς	|	ες		| **διαβάσες**	|
+| αυτός/ή/ό  	| διαβάς	|	ε		| **διαβάσε**	|
+| εμεις  		| διαβάς	|	αμε		| **διαβάσαμε**	|
+| εσεις  		| διαβάς	|	ατε		| **διαβάσατε**	|
+| αυτοί/ές/ά  	| διαβάς	|	αν		| **διαβάσαν**	|
+
+### Change the position of the accent
+
+Words written in past tense in greek always have the accent in the penultimate syllable of the word. So if we take the table above we will sport that there are some words that are wrong
+
+| Not correct 	|	Correct		|
+|-----------	|---------------|
+| διαβάσα		| διάβασα		|
+| διαβάσες		| διάβασες		|
+| διαβάσε		| διάβασε		|
+| διαβάσαμε		| διαβάσαμε		|
+| διαβάσατε		| διαβάσατε		|
+| διαβάσαν		| διάβασαν		|
+
+#### What happens if there is no penultimate syllable?
+
+In case there is no penultimate syllable, we will add an ε at the beginning of the work and we will put the accent right there, for example
+
+Write => γράφω => γράψ => γράψα
+
+As we can see there is no penultimate syllable in the word γράψα so we will use the rule mentioned above _et voila_: έγραψα
